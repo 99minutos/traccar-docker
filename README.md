@@ -7,6 +7,8 @@ Official website: <https://www.traccar.org>
 DockerHub image: <https://hub.docker.com/r/traccar/traccar>  
 Maintainer: [Maxim Zalysin](https://github.com/magna-z)
 
+[![Build and push docker images](https://github.com/99minutos/traccar-docker/actions/workflows/build-push.yml/badge.svg)](https://github.com/99minutos/traccar-docker/actions/workflows/build-push.yml)
+
 ## Available tags:
 #### 4.X
 - **4.13-alpine**, **4-alpine**, **alpine**, **4.13**, **4**, **latest** ![](https://img.shields.io/microbadger/layers/traccar/traccar/4.13-alpine) ![](https://img.shields.io/docker/image-size/traccar/traccar/4.13-alpine)
